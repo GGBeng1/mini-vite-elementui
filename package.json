@@ -1,0 +1,20 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --mode production --debug"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "element-ui": "^2.15.13",
+    "vue": "2.7.14"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue2": "^2.2.0",
+    "rollup-plugin-visualizer": "^5.9.2",
+    "vite": "^4.3.9"
+  }
+}
